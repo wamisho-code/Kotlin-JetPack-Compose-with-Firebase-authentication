@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr3wDZhPXZtsJqOEkHBAYesol0Vq5si3b5YbcbiYaLJA&s=10" alt="Android Jetpack Compose" width="120">
-  <img src="[https://www.gstatic.com/devrel-devsite/prod/v77395b06d4e5653b4783307683b5dfbe4eb7cf793540c1e8f26db9dd5ba70220/firebase/images/touchicon-180.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPJ2IDz3rtx7pVXKfAdO1YOIU-oYI3zNsczms_pwefrLO4mFV0GgpUZhmY&s=10)" alt="Firebase Logo" width="110">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPJ2IDz3rtx7pVXKfAdO1YOIU-oYI3zNsczms_pwefrLO4mFV0GgpUZhmY&s=10" alt="Firebase Logo" width="110">
 
   # Kotlin Jetpack Compose × Firebase Auth
 
