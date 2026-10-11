@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "128076445117",
+    "project_id": "myktfire",
+    "storage_bucket": "myktfire.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128076445117:android:f9d50e1a2b8aaf648b0ed4",
+        "android_client_info": {
+          "package_name": "com.example.myktfire"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2eV6nI8S2_fVtIocsP7qdnYTX4JnP8gA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
