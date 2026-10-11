@@ -1,7 +1,7 @@
 # Kotlin-JetPack-Compose-with-Firebase-authentication
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/skydoves/android-developer-roadmap/main/assets/android_developer_roadmap_2024.png" alt="Android Jetpack Compose" width="120">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr3wDZhPXZtsJqOEkHBAYesol0Vq5si3b5YbcbiYaLJA&s=10" alt="Android Jetpack Compose" width="120">
   <img src="https://www.gstatic.com/devrel-devsite/prod/v77395b06d4e5653b4783307683b5dfbe4eb7cf793540c1e8f26db9dd5ba70220/firebase/images/touchicon-180.png" alt="Firebase Logo" width="110">
 
   # Kotlin Jetpack Compose × Firebase Auth
@@ -57,7 +57,6 @@ Here is a visual breakdown of the application user flows built with modern Mater
   </table>
 </div>
 
-> ✨ *Note: Replace the illustrative structural layouts above with real emulator screenshots of your compiled interface (`.png` files placed in a `/docs` directory) when releasing.*
 
 ---
 
